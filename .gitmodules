@@ -1,0 +1,6 @@
+[submodule "balesuq_mobile"]
+	path = balesuq_mobile
+	url = git@github.com:natnaelab/balesuq_mobile.git
+[submodule "balesuq-core-api"]
+	path = balesuq-core-api
+	url = git@github.com:natnaelab/balesuq-core-api.git
